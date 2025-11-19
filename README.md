@@ -12,8 +12,8 @@
                 └───────────────────────────────────────┘   └───────────────────────────────────────┘
 ```
 
-> Left rotary encoder controls 'volume'.
-> Right rotary encoder is 'up' and 'down' arrows.
+> Left rotary encoder controls volume.
+> Right rotary encoder scrolls vertically.
 
 ## Lower layer
 
@@ -27,6 +27,9 @@
                 └───────────────────────────────────────┘   └───────────────────────────────────────┘
 ```
 
+> Left rotary encoder controls volume.
+> Right rotary encoder scrolls horizontally.
+
 ## Raised layer
 
 ```md
@@ -38,3 +41,6 @@
 └───────────────┐ none  │ LALT  │ LGUI  │ LOWER │ SPACE │   │ RET   │ BSPC  │ RALT  │ RAISE │ none  ┌───────────────┘
                 └───────────────────────────────────────┘   └───────────────────────────────────────┘
 ```
+
+> Left rotary encoder controls volume.
+> Right rotary encoder scrolls horizontally.
