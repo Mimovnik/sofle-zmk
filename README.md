@@ -20,7 +20,7 @@
 ```md
 ┌───────────────────────────────────────────────┐                   ┌───────────────────────────────────────────────┐
 │ ESC   │ F1    │ F2    │ F3    │ F4    │ F5    │                   │ F6    │ F7    │ F8    │ F9    │ F10   │ F11   │
-│ TAB   │ Q     │ W     │ E     │ GRAVE │ TILDE │                   │ Y     │ U     │ I     │ O     │ P     │ F12   │
+│ TAB   │ Q     │ W     │ E     │ GRAVE │ TILDE │                   │ HOME  │ END   │ I     │ O     │ P     │ F12   │
 │ LSHFT │ A     │ S     │ D     │ LBKT  │ RBKT  └───────┐   ┌───────┘ LEFT  │ DOWN  │ UP    │ RIGHT │ PIPE  │ SQT   │
 │ LCTRL │ Z     │ X     │ C     │ LBRC  │ RBRC  │ MUTE  │   │ none  │ N     │ M     │ COMMA │ DOT   │ BSLH  │ RSHFT │
 └───────────────┐ none  │ LALT  │ LGUI  │ LOWER │ SPACE │   │ RET   │ DEL   │ RALT  │ RAISE │ none  ┌───────────────┘
